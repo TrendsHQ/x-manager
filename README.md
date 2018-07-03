@@ -1,2 +1,2 @@
 # x-manager
-Project providing interface fro different platforms
+Project providing interface for different platforms
